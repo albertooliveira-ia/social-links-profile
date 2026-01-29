@@ -43,8 +43,8 @@ body{
 }
 .container p{
     color: #fff;
-    text-align: center;
     font-family: sans-serif;
+    text-align: center;
 }
 .container ul{
     display: grid;
@@ -70,9 +70,9 @@ body{
 }
 .attribution{
     color: #fff;
-    font-size: 11px;
+    font-size: 12px;
     text-align: center;
-    margin-top: 1rem;
+    margin-top: 1.2rem;
 }
 .attribution{
     color: #fff;
