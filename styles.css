@@ -37,6 +37,7 @@ body{
 }
 .container h1 span{
     color: hsl(75, 94%, 57%);
+    font-family: sans-serif;
     display: block;
     font-size: 1rem;
     margin: 0.5rem 0 1rem;
