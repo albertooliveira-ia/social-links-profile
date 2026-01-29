@@ -47,7 +47,7 @@ body{
 .container ul{
     display: grid;
     gap: 0.5rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 .container ul li button{
     background-color: hsl(0, 0%, 18%);
@@ -67,8 +67,8 @@ body{
     color: hsl(0, 0%, 8%);
 }
 .attribution{
-    font-size: 11px;
     color: #fff;
+    font-size: 11px;
     text-align: center;
     margin-top: 1rem;
 }
